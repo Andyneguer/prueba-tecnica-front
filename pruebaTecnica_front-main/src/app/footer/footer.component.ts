@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class FooterComponent {
     message: string = 'Realizado por:';
-    autor: any = {nombre: 'Jaime Andres', apellido: 'Arboleda'};
+    autor: any = {nombre: 'Jaime Andres', apellido: 'Arboleda Garzón'};
 
 }
